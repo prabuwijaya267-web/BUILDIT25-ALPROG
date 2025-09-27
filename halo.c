@@ -2,7 +2,8 @@
 
 int main() {
 
-    int num=2;
+    int num=10;
     printf("%d" , num);
+    printf("El Remontada");
     return 0;
 }
